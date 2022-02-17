@@ -1,0 +1,22 @@
+{
+  "name": "friendly-cli-bot",
+  "version": "1.0.0",
+  "description": "This is to practice working with npm and the inquirer package. The finished project should be a bot which asks the user what their name is, what languages they speak, what their prefered method of communication is, and then save this in a local file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djbowen95/friendly-CLI-bot.git"
+  },
+  "author": "Daniel Bowen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djbowen95/friendly-CLI-bot/issues"
+  },
+  "homepage": "https://github.com/djbowen95/friendly-CLI-bot#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
